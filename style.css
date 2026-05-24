@@ -93,11 +93,11 @@ header{
         display: block;
         height: auto;
         position: static;
-         padding: 40%;
+         padding: 20%;
      }
       img{
         position: static;
-       max-width: 90%;
+        max-width: 90%;
        
      }
       header{
